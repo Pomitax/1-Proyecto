@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+@import url('https://fonts.googleapis.com/css?family=Sedgwick+Ave');
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text');
+
+body{
+	background-image: url(mi_fondo_de_pagina.jpg);
+}
+
+#header__logo{
+  width: 15%;
+  float: left;
+
+}
+
+#header__logo img{
+  width: 100%;
+}
+
+.nav__li{
+  display: inline-block;
+  width: 150px;
+  height: 35px;
+  margin-left: 190px;
+  margin-top: 130px;
+  border: 2px solid #841010;
+  border-radius: 5px;
+  text-align: center;
+  color: #B29315;
+  padding-top: 10px;
+}
+
+#body__h1{
+	clear: both;
+	text-align: center;
+}
+
+
+#body__banner{
+	width: 90%;
+	margin: 0 auto;
+}
+
+#body__banner img{
+	width: 100%;
+}
+
+.footer__imagenes_redes{
+	display: inline-block;
+}
+
+.body__imagenes{
+    width: 420px;
+    height: 250px;
+    display:inline-block;
+    
+}
+
+.body__imagenes img{
+	width: 100%;
+	height: 100%;
+}
+
+#body__h1{
+	font-size: 75px;
+	font-family: 'Indie Flower', cursive;
+}
+
+#body__h2{
+	font-size: 40px;
+	font-family: 'Indie Flower', cursive;
+}
+
+#footer__h3{
+	font-size: 30px;
+	font-family: 'Sedgwick Ave', cursive;
+}
+
+.footer__imagenes_redes{
+    width: 50px;
+    height: 50px;
+}
+
+.footer__imagenes_redes img{
+	width: 100%;
+	height: 100%;
+}
+
+#body__p{
+	/*font-family: 'Raleway', sans-serif;*/
+	/*font-family: 'Oswald', sans-serif;*/
+	/*font-family: 'Indie Flower', cursive;*/
+	/*font-family: 'Sedgwick Ave', cursive;*/
+	font-family: 'Crimson Text', serif;
+	font-size: 25px;
+	color: #4F1515;
+
+}
+
+
+
+
+
